@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <File Path="src/.gitignore" />
+    <Project Path="src/PriceTracker.API/PriceTracker.API.csproj" Id="434c4e5d-57b7-421f-a010-22f4f4594837" />
+    <Project Path="src/PriceTracker.Application/PriceTracker.Application.csproj" Id="954bab13-b84b-48a0-a3be-6d063a4425e9" />
+    <Project Path="src/PriceTracker.Domain/PriceTracker.Domain.csproj" Id="33858daa-6d71-4ddb-9fee-5035515e6e5b" />
+    <Project Path="src/PriceTracker.Infrastructure/PriceTracker.Infrastructure.csproj" Id="2f9e018b-4b17-41c1-95b9-00ca4ce3c1a4" />
+  </Folder>
+</Solution>
